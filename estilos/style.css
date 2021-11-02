@@ -21,6 +21,12 @@
     --fonte-androide: 'android', cursive;
 }   
 
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrão);
